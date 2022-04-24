@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi!
+
+I'm Emily and I'm just beginning my journey into the world of coding! :smile:
+
+#100daysofcoding
 
 <!--
 **Emily9903/Emily9903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
