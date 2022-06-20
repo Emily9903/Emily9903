@@ -1,6 +1,6 @@
 Hi!
 
-I'm Emily and I'm just beginning my journey into the world of coding! :smile:
+I'm currently studying with the School of Code :smile:
 
 #100daysofcoding
 
