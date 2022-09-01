@@ -1,4 +1,4 @@
-Hi, I'm Emily
+Hi, I'm Emily.
 
 I am an aspiring software developer and have recently completed a 16 week coding bootcamp with School of Code. :smile:
 After spending 5 ½ years doing admin work for the NHS, I was introduced to the world of coding through a friend last 
