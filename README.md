@@ -1,8 +1,8 @@
-Hi!
+Hi, I'm Emily
 
-I'm currently studying with the School of Code :smile:
-
-#100daysofcoding
+I am an aspiring software developer and have recently completed a 16 week coding bootcamp with School of Code. :smile:
+After spending 5 ½ years doing admin work for the NHS, I was introduced to the world of coding through a friend last 
+year and I knew I wanted to jump in with both feet and work in tech!
 
 <!--
 **Emily9903/Emily9903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
